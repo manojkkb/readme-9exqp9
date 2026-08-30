@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manojkkb.github.io/readme-9exqp9/sitemap.xml
